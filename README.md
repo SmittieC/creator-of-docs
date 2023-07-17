@@ -1,4 +1,4 @@
-# creator-of-docs
+# Docs Util
 A simple commandline tool to help create technical documentation from audio / text. This is meant to help save time.
 
 
