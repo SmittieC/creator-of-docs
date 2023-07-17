@@ -19,7 +19,7 @@ OpenAI token, so a paid OpenAI account
 ## Usage
 ### Create transcriptions
 You can create transcriptions from audio by copying the audio file into the script's directory and running
-> `make create_transcription`
+> make transcribe
 
 This will create a `text.txt` file containing the transcription. Be sure to double check the transcription before
 creating the documentation.
